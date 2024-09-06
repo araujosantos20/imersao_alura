@@ -103,7 +103,6 @@ input:focus {
   padding: 1rem; /* Espaçamento interno */
   margin-bottom: 1rem; /* Espaçamento abaixo dos itens */
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Sombra leve */
-  width: 60rem;
 }
 
 /* Estiliza os títulos dentro dos itens de resultado */
@@ -131,11 +130,10 @@ input:focus {
 
 /* Estiliza o rodapé da página */
 footer {
-  background-color: #f5f7f8; /* Cor de fundo do rodapé */
+  background-color: #b8b9b9; /* Cor de fundo do rodapé */
   color: #45474b; /* Cor do texto */
   text-align: center; /* Alinha o texto ao centro */
   padding: 0; /* Espaçamento interno */
-  height: auto;
   width: 100%; /* Largura total da página */
   position: absolute; /* Posiciona o rodapé */
   bottom: 0; /* Alinha ao fundo da página */

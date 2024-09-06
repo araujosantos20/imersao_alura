@@ -1,1 +1,1 @@
-console.log("Camisetas Básicas");
+console.log(dados);
